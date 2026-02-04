@@ -15,7 +15,7 @@ Due to the highly imbalanced nature of the dataset, class balancing and sampling
 
 **Dataset File:**
 
-Creditcard_data.csv
+[Creditcard_data.csv](./Creditcard_data.csv)
 
 ## Sampling Techniques Used
 The following five statistical sampling techniques were implemented:
