@@ -47,3 +47,8 @@ Sampling_Assignment/
 ├── accuracy_results.csv
 └── README.md
 
+## License
+
+© 2026 Arshdeep Kaur
+
+This reopsitory is licensed under MIT License. See LICENSE for details.
